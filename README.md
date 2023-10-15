@@ -133,9 +133,6 @@ df5.head()
 <img width="635" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/9bd8ceab-7aa5-42e3-914f-7619878324b2">
 
 
-<img width="645" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/25c70cc2-5db9-4da7-afcd-e1b80e81f8ae">
-
-
 <img width="665" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/bed8f82c-f569-4b7c-800a-b1ebd6559859">
 
 
