@@ -144,37 +144,37 @@ df5.head()
 
 # FEATURE SCALING:
 
-<img width="287" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/9624cb42-7363-4a6c-b52c-7dfdd2ec3d8e">
+<img width="400" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/9624cb42-7363-4a6c-b52c-7dfdd2ec3d8e">
 
 
-<img width="316" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/4bef8b46-9f98-40b1-b609-04d032c6039b">
+<img width="415" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/4bef8b46-9f98-40b1-b609-04d032c6039b">
 
 
-<img width="665" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/b9f259ec-5c31-4ddf-aa82-dfe7dcbf7896">
+<img width="430" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/b9f259ec-5c31-4ddf-aa82-dfe7dcbf7896">
 
 
-<img width="403" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/2e8ea8aa-4735-4f7c-8a2d-6e6a71fdae59">
+<img width="445" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/2e8ea8aa-4735-4f7c-8a2d-6e6a71fdae59">
 
 
-<img width="658" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/1ef92584-3458-4d5f-880a-6e036ef7a1ac">
+<img width="465" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/1ef92584-3458-4d5f-880a-6e036ef7a1ac">
 
 
-<img width="677" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/c4f6836d-fcf8-47a5-b1bc-69f8e0f5dd60">
+<img width="485" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/c4f6836d-fcf8-47a5-b1bc-69f8e0f5dd60">
 
 
-<img width="361" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/755df794-db13-4a4e-835b-fe883a5571eb">
+<img width="496" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/755df794-db13-4a4e-835b-fe883a5571eb">
 
 
-<img width="350" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/8287a836-776d-479f-8355-e95d4a74b858">
+<img width="510" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/8287a836-776d-479f-8355-e95d4a74b858">
 
 
-<img width="322" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/08048583-37c0-4c1c-b35c-fa400465810e">
+<img width="530" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/08048583-37c0-4c1c-b35c-fa400465810e">
 
 
-<img width="359" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/b9773e82-1e99-40da-ae2e-f33b4cdec09a">
+<img width="545" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/b9773e82-1e99-40da-ae2e-f33b4cdec09a">
 
 
-<img width="440" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/5cd19d5e-81e8-4c58-9991-8f2413b2357a">
+<img width="564" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/5cd19d5e-81e8-4c58-9991-8f2413b2357a">
 
 
 # RESULT:
