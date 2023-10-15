@@ -150,7 +150,7 @@ df5.head()
 <img width="415" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/4bef8b46-9f98-40b1-b609-04d032c6039b">
 
 
-<img width="1800" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/b9f259ec-5c31-4ddf-aa82-dfe7dcbf7896">
+<img width="1200" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/bdf32e5c-8d5a-4e15-a484-130bc82f48c7">
 
 
 <img width="445" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/2e8ea8aa-4735-4f7c-8a2d-6e6a71fdae59">
