@@ -124,22 +124,22 @@ df5.head()
 <img width="600" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/10e3a613-fd4a-463d-9c47-373875cb904b">
 
 
-<img width="700" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/e0729f64-0197-477f-86cb-2f820ae403fe">
+<img width="613" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/e0729f64-0197-477f-86cb-2f820ae403fe">
 
 
-<img width="800" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/4923f6d7-2e7e-494b-af08-5e2a503c667b">
+<img width="629" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/4923f6d7-2e7e-494b-af08-5e2a503c667b">
 
 
-<img width="815" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/9bd8ceab-7aa5-42e3-914f-7619878324b2">
+<img width="635" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/9bd8ceab-7aa5-42e3-914f-7619878324b2">
 
 
-<img width="830" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/25c70cc2-5db9-4da7-afcd-e1b80e81f8ae">
+<img width="645" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/25c70cc2-5db9-4da7-afcd-e1b80e81f8ae">
 
 
-<img width="845" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/bed8f82c-f569-4b7c-800a-b1ebd6559859">
+<img width="665" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/bed8f82c-f569-4b7c-800a-b1ebd6559859">
 
 
-<img width="865" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/a6d98f04-383b-45b3-8b1d-e1190973bb3e">
+<img width="685" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/a6d98f04-383b-45b3-8b1d-e1190973bb3e">
 
 
 # FEATURE SCALING:
