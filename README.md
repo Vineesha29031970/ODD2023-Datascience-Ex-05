@@ -109,7 +109,7 @@ df5.head()
 
 # FEATURE ENCODING
 
-<img width="415" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/4a40c4ec-b7ca-4c04-9039-9629c049ba58">
+<img width="315" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/4a40c4ec-b7ca-4c04-9039-9629c049ba58">
 
 
 <img width="420" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/c31a5fb5-26a7-4c9d-90c2-c953c434ab55">
