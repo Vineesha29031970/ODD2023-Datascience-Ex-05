@@ -150,16 +150,16 @@ df5.head()
 <img width="415" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/4bef8b46-9f98-40b1-b609-04d032c6039b">
 
 
-<img width="1200" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/b9f259ec-5c31-4ddf-aa82-dfe7dcbf7896">
+<img width="1800" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/b9f259ec-5c31-4ddf-aa82-dfe7dcbf7896">
 
 
 <img width="445" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/2e8ea8aa-4735-4f7c-8a2d-6e6a71fdae59">
 
 
-<img width="1300" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/1ef92584-3458-4d5f-880a-6e036ef7a1ac">
+<img width="1900" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/1ef92584-3458-4d5f-880a-6e036ef7a1ac">
 
 
-<img width="1400" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/c4f6836d-fcf8-47a5-b1bc-69f8e0f5dd60">
+<img width="2000" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/c4f6836d-fcf8-47a5-b1bc-69f8e0f5dd60">
 
 
 <img width="496" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/755df794-db13-4a4e-835b-fe883a5571eb">
