@@ -147,13 +147,13 @@ df5.head()
 <img width="400" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/9624cb42-7363-4a6c-b52c-7dfdd2ec3d8e">
 
 
-<img width="555" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/4bef8b46-9f98-40b1-b609-04d032c6039b">
+<img width="585" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/4bef8b46-9f98-40b1-b609-04d032c6039b">
 
 
 <img width="430" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/b9f259ec-5c31-4ddf-aa82-dfe7dcbf7896">
 
 
-<img width="545" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/2e8ea8aa-4735-4f7c-8a2d-6e6a71fdae59">
+<img width="595" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/2e8ea8aa-4735-4f7c-8a2d-6e6a71fdae59">
 
 
 <img width="465" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-05/assets/133136880/1ef92584-3458-4d5f-880a-6e036ef7a1ac">
